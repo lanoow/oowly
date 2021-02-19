@@ -1,0 +1,5 @@
+    1. Install the requirements using: pip install requirements.txt
+    2. Open message.txt and type the message you want to spam.
+    3. Run oowly.
+    4. You'll have 5 seconds to open the app/window you want to spam in.
+    5. Enjoy!

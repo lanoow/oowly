@@ -6,5 +6,3 @@
     4. Run oowly.
     5. You'll have 5 seconds to open the app/window you want to spam in.
     6. Enjoy!
-
-### oowly is free to use by everyone!
